@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Spring boot,hibernate,Java,React,Javascript**
 
 
-- 📫 How to reach me **bhosalep@gmail.com**
+- 📫 How to reach me **bhosalep1925@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
